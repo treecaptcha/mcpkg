@@ -1,0 +1,30 @@
+[
+  {
+    "title": "OpenJDK17",
+    "implements": "java.11",
+    "Author": "Oracle Corporation",
+    "Script Author": "Treecaptcha",
+    "version": 1,
+    "licence": "GNU GPL 2.0",
+    "licence-url": "https://raw.githubusercontent.com/openjdk/jdk/master/LICENSE",
+    "installer": "OpenJDK17.sh",
+    "installer-runtime": "bash",
+    "updater": "null",
+    "updater-runtime": "null",
+    "dependencies": []
+  },
+  {
+    "title": "Minecraft Launcher",
+    "implements": "minecraftlauncher",
+    "Author": "Mojang Studios",
+    "Script Author": "Treecaptcha",
+    "version": 1,
+    "licence": "Minecraft EULA",
+    "licence-url": "https://www.minecraft.net/en-us/eula",
+    "installer": "MinecraftLauncher.sh",
+    "installer-runtime": "bash",
+    "updater": "null",
+    "updater-runtime": "null",
+    "dependencies": []
+  }
+]
