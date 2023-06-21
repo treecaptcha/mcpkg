@@ -9,8 +9,10 @@
     "licence-url": "https://raw.githubusercontent.com/openjdk/jdk/master/LICENSE",
     "installer": "OpenJDK17.sh",
     "installer-runtime": "bash",
+    "installer-sudo": true,
     "updater": "null",
     "updater-runtime": "null",
+    "updater-sudo": true,
     "dependencies": []
   },
   {
@@ -23,8 +25,10 @@
     "licence-url": "https://www.minecraft.net/en-us/eula",
     "installer": "MinecraftLauncher.sh",
     "installer-runtime": "bash",
+    "installer-sudo": true,
     "updater": "null",
     "updater-runtime": "null",
+    "updater-sudo": true,
     "dependencies": []
   }
 ]
