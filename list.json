@@ -1,6 +1,7 @@
 [
   {
     "title": "OpenJDK17",
+    "name": "openjdk17",
     "implements": "java.11",
     "Author": "Oracle Corporation",
     "Script Author": "Treecaptcha",
@@ -17,6 +18,7 @@
   },
   {
     "title": "Minecraft Launcher",
+    "name": "minecraftlauncher",
     "implements": "minecraftlauncher",
     "Author": "Mojang Studios",
     "Script Author": "Treecaptcha",
